@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "kfa:fried_axolotl"
+      },
+      "title": "Finger Lickin' Good",
+      "description": "Eat a fried axolotl",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+            "items": [
+                {
+                    "items": [
+                        "kfa:fried_axolotl"
+                    ]
+                }
+            ]
+        }
+      }
+    }
+  }

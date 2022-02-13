@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/github/merpous/axolotl/mixin/FriedModMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/github/merpous/axolotl/mixin/FriedModMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}

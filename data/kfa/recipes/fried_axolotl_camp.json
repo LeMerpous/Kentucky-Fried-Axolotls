@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "minecraft:axolotl_bucket"
+    },
+    "result": "kfa:fried_axolotl",
+    "experience": 2.5,
+    "cookingtime": 115
+  }
