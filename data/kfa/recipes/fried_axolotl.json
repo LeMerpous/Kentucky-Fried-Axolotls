@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-      "item": "minecraft:axolotl_bucket"
-    },
-    "result": "kfa:fried_axolotl",
-    "experience": 5.0,
-    "cookingtime": 200
-  }
