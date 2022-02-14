@@ -1,9 +1,5 @@
-# Fabric Example Mod
+#KFA
 
-## Setup
+-Fried Axolotls can be created by smelting a buckets of Axolotl in a furnace, doing so will make fried axolotl.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+-This mod also adds an advancement for eating a fried axolotl
